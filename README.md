@@ -4,3 +4,4 @@ Can a computer tell how stressed you are? Develop a neural network to diagnose i
 I have uploaded the code but data set could not be uploaded because of large size. It can be found at https://www.kaggle.com/datasets/qiriro/swell-heart-rate-variability-hrv
 
 
+[Stress classification LaTeX poster.pdf](https://github.com/ACM-Research/stress-diagnosis-neural-networks/files/8606626/Stress.classification.LaTeX.poster.pdf)
